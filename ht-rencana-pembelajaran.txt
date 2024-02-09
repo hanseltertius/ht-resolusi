@@ -5,6 +5,7 @@ RENCANA PEMBELAJARAN HT :
   * ES6
   * Framework JavaScript
     a. Vue
+    b. React
 - Data Structures
 - SQL
 - Python
