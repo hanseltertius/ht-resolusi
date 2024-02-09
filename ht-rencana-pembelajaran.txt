@@ -2,4 +2,6 @@ RENCANA PEMBELAJARAN HT :
 - HTML
 - CSS
 - JavaScript
+  * ES6
+  * Framework JavaScript
 - SQL
