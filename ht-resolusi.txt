@@ -1,5 +1,7 @@
 Resolusi Hansel Tertius : 
 - Konsisten untuk belajar programming dan bisa mendapatkan Int'l certificate
-- Bisa membuat website full stack dengan menggunakan tech stack berbasis JavaScript
+- Bisa membuat website full stack dengan menggunakan tech stack berbasis JavaScript, seperti : 
+  a. React.js
+  b. Node.js
 - Bisa membuat portfolio sendiri tanpa harus bergantung pada tutorial / orang lain
 - Bisa mendapatkan job freelance / remote full time
