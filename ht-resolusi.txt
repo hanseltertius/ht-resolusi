@@ -3,5 +3,6 @@ Resolusi Hansel Tertius :
 - Bisa membuat website full stack dengan menggunakan tech stack berbasis JavaScript, seperti : 
   a. React.js
   b. Node.js
+- Bisa membuat website sendiri tanpa harus bergantung pada orang lain maupun tutorial
 - Memiliki portfolio yang meyakinkan dari hasil pembelajaran
 - Bisa mendapatkan job freelance / remote full time
