@@ -4,5 +4,9 @@ RENCANA PEMBELAJARAN HT :
 - JavaScript
   * ES6
   * Framework JavaScript
+    a. React
 - Data Structures
 - SQL
+- Python
+  * Framework Python
+    a. Django
