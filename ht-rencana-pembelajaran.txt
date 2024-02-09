@@ -10,4 +10,4 @@ RENCANA PEMBELAJARAN HT :
 - SQL
 - Python
   * Framework Python
-    a. Flask
+    a. Django
